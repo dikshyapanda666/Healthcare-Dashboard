@@ -10,8 +10,7 @@ It visualizes patient admissions, waiting times, satisfaction scores, and depart
 
 
 ## 🖼️ Dashboard Preview
-![Healthcare Dashboard]
-(https://github.com/dikshyapanda666/Healthcare-Dashboard/blob/main/Patients%20dashboard.png)
+![Healthcare Dashboard](https://github.com/dikshyapanda666/Healthcare-Dashboard/blob/main/Patients%20dashboard.png)
 
 
 ## 🧠 Key Insights
