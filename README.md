@@ -11,9 +11,8 @@ It visualizes patient admissions, waiting times, satisfaction scores, and depart
 
 ## 🖼️ Dashboard Preview
 ![Healthcare Dashboard](Patients%20dashboard.png)
-https://github.com/dikshyapanda666/Healthcare-Dashboard/blob/main/Patients%20dashboard.png
+(https://github.com/dikshyapanda666/Healthcare-Dashboard/blob/main/Patients%20dashboard.png)
 
----
 
 ## 🧠 Key Insights
 This dashboard highlights:
@@ -36,17 +35,15 @@ This dashboard highlights:
 | File Name | Description |
 |------------|--------------|
 | `Data Dashboard.pbix` | Power BI dashboard project file |
-| `healthcare_data.csv` | Source dataset used in dashboard |
+| `Patients Data.csv` | Source dataset used in dashboard |
 | `Patients dashboard.png` | Dashboard screenshot (Consolidated View) |
 
----
 
 ## 🧾 Dashboard Views
 - **Monthly View:** Monthly patient trends and key statistics  
 - **Consolidated View:** Overall performance summary (shown above)  
 - **Patients Detail:** Demographic & department-level breakdown  
 - **Key Takeaways:** Final observations and insights  
-
 
 
 ## 💬 Author
