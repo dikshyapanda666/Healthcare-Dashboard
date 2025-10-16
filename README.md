@@ -1,4 +1,3 @@
-# Healthcare-Dashboard
 # 🩺 Healthcare Patients Data Dashboard
 
 An interactive **Power BI Dashboard** that provides insights into hospital performance and patient metrics.  
@@ -12,6 +11,7 @@ It visualizes patient admissions, waiting times, satisfaction scores, and depart
 
 ## 🖼️ Dashboard Preview
 ![Healthcare Dashboard](Patients%20dashboard.png)
+https://github.com/dikshyapanda666/Healthcare-Dashboard/blob/main/Patients%20dashboard.png
 
 ---
 
@@ -35,7 +35,7 @@ This dashboard highlights:
 ## 📁 Files Included
 | File Name | Description |
 |------------|--------------|
-| `Data Das.pbix` | Power BI dashboard project file |
+| `Data Dashboard.pbix` | Power BI dashboard project file |
 | `healthcare_data.csv` | Source dataset used in dashboard |
 | `Patients dashboard.png` | Dashboard screenshot (Consolidated View) |
 
