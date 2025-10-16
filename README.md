@@ -46,4 +46,4 @@ This dashboard highlights:
 
 
 ## 💬 Author
-👩‍💻 **Diksha Panda**  
+👩‍💻 **Dikshya Panda**  
